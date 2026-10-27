@@ -4,19 +4,19 @@ Give your default Windows Terminal a clean, customized look with a custom font, 
 
 ## Preview
 
-[IMAGE]
+<img src='img-files/Preview.png' width=800>
 
 ## Step 1: Configure Windows Terminal
 
 1. Open **Windows Terminal** or **PowerShell**.
 2. Click the arrow next to the tab bar to open the menu.
 
-   [IMAGE]
+   <img src='img-files/settings.png'><img src='img-files/settings-2.png'>
 
 3. Select **Settings**.
 4. Scroll to the bottom of the Settings sidebar and open the **JSON file**.
 
-   [IMAGE]
+   <img src='img-files/open-json.png'>
 
 5. Copy the configuration files provided in this repository into the appropriate locations, following the files and instructions in the repo.
 6. Download the font used by this setup and install it on your system.
