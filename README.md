@@ -11,12 +11,12 @@ Give your default Windows Terminal a clean, customized look with a custom font, 
 1. Open **Windows Terminal** or **PowerShell**.
 2. Click the arrow next to the tab bar to open the menu.
 
-   <img src='img-files/settings.png'><img src='img-files/settings-2.png'>
+   <img src='img-files/settings.png' width=380><img src='img-files/settings-2.png' width=380>
 
 3. Select **Settings**.
 4. Scroll to the bottom of the Settings sidebar and open the **JSON file**.
 
-   <img src='img-files/open-json.png'>
+   <img src='img-files/open-json.png' width=400>
 
 5. Copy the configuration files provided in this repository into the appropriate locations, following the files and instructions in the repo.
 6. Download the font used by this setup and install it on your system.
