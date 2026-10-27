@@ -4,7 +4,7 @@ Give your default Windows Terminal a clean, customized look with a custom font, 
 
 ## Preview
 
-<img src='img-files/Preview.png'>
+<img src='img-files/Preview.png' width=800>
 
 ## Step 1: Configure Windows Terminal
 
